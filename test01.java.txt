@@ -1,10 +1,13 @@
 public class Test01
 {
-int a=5
+int a=5;
+in b=2;
+int c=a+b;
 public void display(){
-s.o.p(a);
+s.o.p(c);
 }
 }
+
 
 public class mainclass
 {
