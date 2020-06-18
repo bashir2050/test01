@@ -3,8 +3,10 @@ public class Test01
 int a=5;
 in b=2;
 int c=a+b;
+int z=a-b;
 public void display(){
 s.o.p(c);
+s.o.p(z);
 }
 }
 
