@@ -1,0 +1,15 @@
+public class Test01
+{
+int a=5
+public void display(){
+s.o.p(a);
+}
+}
+
+public class mainclass
+{
+public static void main (string[] args)
+{
+Test01 t=new Test01();
+t.display();
+}
